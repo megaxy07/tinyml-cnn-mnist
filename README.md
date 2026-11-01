@@ -118,7 +118,7 @@ This notebook measures accuracy, parameter count, and model file size. It does *
 
 
 
-
+The metrics are created and saved as model_comparision.csv 
 
 ##  Conclusion
 
@@ -127,7 +127,7 @@ This mini-project investigates two practical techniques for preparing a CNN for 
 
 **Scope limitation:** The experiment is performed in Google Colab. Successful conversion to TensorFlow Lite does not by itself prove deployment on a microcontroller. A real deployment would require testing operator compatibility and measuring flash usage, peak RAM, inference latency, and power or energy consumption on the selected device.
 
-## 12. Repository Structure
+##  Repository Structure
 
 ```text
 tinyml-cnn-mnist/
@@ -139,7 +139,7 @@ tinyml-cnn-mnist/
 
 The dataset is loaded by the notebook and is not included in the repository. Model files and comparison outputs are generated during execution and can be uploaded if required by the instructor.
 
-## 13. References
+##  References
 
 1. Keras, “MNIST digits classification dataset.” https://keras.io/api/datasets/mnist/
 2. TensorFlow, “TensorFlow 2 quickstart for beginners.” https://www.tensorflow.org/tutorials/quickstart/beginner
