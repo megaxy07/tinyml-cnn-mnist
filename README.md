@@ -39,7 +39,7 @@ To study CNN reduction techniques for TinyML and evaluate their effect on handwr
 5. Compare test accuracy, trainable parameter count, and model file size.
 6. Discuss whether the optimized model is a promising candidate for microcontroller deployment and identify what additional hardware measurements would be required.
 
-## 4. Dataset
+##  Dataset
 
 - **Name:** MNIST handwritten digits
 - **Training set:** 60,000 images
@@ -57,7 +57,7 @@ The notebook downloads/loads the dataset through the TensorFlow/Keras dataset AP
 
 Check the dataset's source and license terms if redistributing the data separately.
 
-## 5. Proposed Methodology
+##  Proposed Methodology
 
 The experiment follows these steps:
 
